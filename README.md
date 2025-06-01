@@ -8,14 +8,12 @@
 
 ### Langkah-langkah Instalasi (Installation Steps)
 
-1. Pastikan Python 3.10.0 sudah terinstal di sistem Anda
-   (Make sure Python 3.10.0 is installed on your system)
+1. Pastikan Python 3.10.0 sudah terinstal di local computer
    ```bash
    python --version
    ```
 
 2. Buat dan aktifkan virtual environment
-   (Create and activate virtual environment)
    ```bash
    # Windows
    python -m venv venv
@@ -27,10 +25,8 @@
    ```
 
 3. Pastikan virtual environment sudah aktif (tanda (venv) akan muncul di terminal)
-   (Make sure virtual environment is active (you'll see (venv) in your terminal))
 
 4. Install dependencies dari requirements.txt
-   (Install dependencies from requirements.txt)
    ```bash
    pip install -r requirements.txt
    ```
