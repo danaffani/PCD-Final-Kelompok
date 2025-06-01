@@ -13,7 +13,7 @@
    python --version
    ```
 
-2. Buat dan aktifkan virtual environment
+2. Buat dan aktifkan virtual environment (contoh)
    ```bash
    # Windows
    python -m venv venv
@@ -33,20 +33,12 @@
 
 ## Penggunaan (Usage)
 
-Setelah instalasi selesai, Anda dapat menjalankan program sesuai dengan instruksi yang diberikan.
-(After installation is complete, you can run the program according to the given instructions.)
+Setelah instalasi selesai, jalankan program sesuai dengan instruksi yang diberikan pada markdown.
 
 ## Troubleshooting
 
-Jika Anda mengalami masalah saat instalasi, pastikan:
-(If you encounter any issues during installation, make sure:)
+Jika ada masalah saat instalasi, pastikan:
 
 1. Python 3.10.0 terinstal dengan benar
-   (Python 3.10.0 is installed correctly)
 2. Virtual environment sudah aktif
-   (Virtual environment is active)
 3. Semua dependencies terinstal dengan benar
-   (All dependencies are installed correctly)
-
-Jika masih mengalami masalah, silakan hubungi tim pengembang.
-(If you still experience issues, please contact the development team.) 
