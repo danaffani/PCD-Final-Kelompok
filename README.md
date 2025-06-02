@@ -13,7 +13,10 @@
    python --version
    ```
 
-2. Buat dan aktifkan virtual environment menggunakan Python 3.10.0 melalui GUI dari VSCode
+2. Buat virtual environment menggunakan Python 3.10.0 melalui GUI dari VSCode dan aktifkan melalui Terminal VSCode
+   ```bash
+   .venv/Scripts/activate
+   ```
 
 3. Pastikan virtual environment sudah aktif (tanda (venv) akan muncul di terminal)
 
